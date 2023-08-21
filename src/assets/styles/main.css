@@ -1,0 +1,13 @@
+body {
+  background: #f8f9fa;
+}
+
+.container-sm,
+.container {
+  min-height: calc(100vh - 156px);
+}
+
+.slow-spin {
+  -webkit-animation: fa-spin 20s infinite linear;
+  animation: fa-spin 20s infinite linear;
+}
