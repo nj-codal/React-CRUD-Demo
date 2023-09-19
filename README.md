@@ -1,4 +1,4 @@
-# Project Name
+# React CRUD Demo
 
 CRUD operations with React. Data is being saved in LocalStorage.
 
